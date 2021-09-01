@@ -5,6 +5,11 @@
 https://snowpack-all-in-one.xgqfrms.xyz
 
 ```sh
-$ npm install snowpack
+$ npm i -D snowpack
+
+```
+
+```sh
+$ yarn add -D snowpack
 
 ```

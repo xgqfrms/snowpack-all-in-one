@@ -1,0 +1,25 @@
+{
+  "name": "snowpack-all-in-one",
+  "version": "1.0.0",
+  "description": "snowpack test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xgqfrms/snowpack-all-in-one.git"
+  },
+  "keywords": [
+    "snowpack"
+  ],
+  "author": "xgqfrms",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xgqfrms/snowpack-all-in-one/issues"
+  },
+  "homepage": "https://github.com/xgqfrms/snowpack-all-in-one#readme",
+  "devDependencies": {
+    "snowpack": "^3.8.8"
+  }
+}

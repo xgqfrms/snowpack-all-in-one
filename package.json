@@ -4,8 +4,10 @@
   "description": "snowpack test",
   "main": "index.js",
   "scripts": {
+    "start": "snowpack dev",
+    "build": "snowpack build",
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
+    },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/xgqfrms/snowpack-all-in-one.git"
